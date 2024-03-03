@@ -6,8 +6,9 @@ PurrfectSnap is a delightful web app that brings a daily dose of joy to your scr
 Fetch random cat or dog images.
 Prevents repeated images for a fresh experience.
 Simple and user-friendly interface.
-Tech Stack:
 
-## HTML
+## Tech Stack:
+
+HTML
 CSS
 JavaScript
